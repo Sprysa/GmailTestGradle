@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.epam.lab.GmailTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-02-24T16:55:08" hostname="Bogdan-PC" time="85.045">
+  <properties/>
+  <testcase name="testVariant2[0](epam.test.sprysa@gmail.com, die34nh2)" classname="com.epam.lab.GmailTest" time="77.962"/>
+  <testcase name="testVariant2[0](epam.test.sprysa@gmail.com, die34nh2)" classname="com.epam.lab.GmailTest" time="81.807"/>
+  <testcase name="testVariant2[0](epam.test.sprysa@gmail.com, die34nh2)" classname="com.epam.lab.GmailTest" time="84.875"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 73.0.3683.20 (8e2b610813e167eee3619ac4ce6e42e3ec622017) on port 34467
+Starting ChromeDriver 73.0.3683.20 (8e2b610813e167eee3619ac4ce6e42e3ec622017) on port 5061
+Only local connections are allowed.
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+Starting ChromeDriver 73.0.3683.20 (8e2b610813e167eee3619ac4ce6e42e3ec622017) on port 35455
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+[1551027292.198][WARNING]: Timed out connecting to Chrome, retrying...
+]]></system-err>
+</testsuite>
